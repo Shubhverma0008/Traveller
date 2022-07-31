@@ -5,7 +5,7 @@ const Home=()=>{
         <> 
          {/* <Topbar/>  */}
            <div className="mainContaineer">
-            <h1 className='Mainheading' >Welcome to <strong>Travelopedia</strong></h1>
+            <h1 className='Mainheading' >Welcome to <strong>Travellopedia</strong></h1>
             </div>
         
         </>
