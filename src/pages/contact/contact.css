@@ -1,0 +1,9 @@
+.textarea:hover{
+    outline: none;
+}
+.textarea{
+    outline:none;
+    resize: none;
+    overflow-y: auto;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,13 @@
+
+.movieForm{
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+.movieButton{
+    margin-right: 5rem;
+    margin-left: 3rem;
+    padding: 2px 37px;
+    border-radius: 10px;
+    font-size: 23px;
+}

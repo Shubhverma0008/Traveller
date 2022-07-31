@@ -1,0 +1,18 @@
+
+.mainContaineer{
+    display: flex;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+   background-image: url('http://localhost:3000/assets/person/2.jpg');
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+}
+.Mainheading{
+    color: white;
+    font-size: 5rem;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}

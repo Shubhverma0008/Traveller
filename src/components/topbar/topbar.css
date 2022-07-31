@@ -1,0 +1,55 @@
+.mainContainer{
+    background-color:#E5E3C9;
+    display: flex;
+    height: 3.5rem;
+    position: sticky;
+    top:0;
+}
+.containerLeft{
+    flex: 4;
+    cursor: pointer;
+    position: relative;
+}
+.containerCenter{
+    flex: 7;
+}
+.containerRight{
+    flex: 1;
+}
+.centerItem{
+    position: absolute;
+    right: 10rem;
+    margin-top: 0.5rem;
+
+}
+.content:hover{
+    background-color:#B4CFB0;
+
+}
+.content{
+    font-size: 1.6rem;
+    text-decoration: none;
+    padding: 0 1.2rem;
+    cursor: pointer;
+    border-radius: 1rem;
+    color: black;
+
+}
+.imgContainer{
+    position: absolute;
+    right: 1rem;
+  
+
+}
+.profileImg{
+    height: 3.5rem;
+    border-radius: 55%;
+    object-fit: cover;
+    cursor: pointer;
+
+}
+.imglogo{
+    height: 56px;
+    position: relative;
+    top: -8px;
+}

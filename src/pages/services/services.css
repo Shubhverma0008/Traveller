@@ -1,0 +1,24 @@
+.row{
+    height: 90vh;
+    width: 100vw;
+    /* background-color: #9ADCFF; */
+}
+.card:hover{
+    /* background-color: red; */
+    transform: scale(1.1);
+}
+.card{
+    box-shadow: 10px 10px 11px 2px #888888;
+    transition: transform .2s;
+   
+}
+.cardContainer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+.image{
+    height: 8rem;
+    width: 12rem;
+}
