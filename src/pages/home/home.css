@@ -4,7 +4,7 @@
     height: 90vh;
     justify-content: center;
     align-items: center;
-   background-image: url('/assets/person/2.jpg');
+   background-image: url('https://traveller12.netlify.app/assets/person/2.jpg');
      background-repeat: no-repeat;
      background-attachment: fixed;
      background-size: cover;
