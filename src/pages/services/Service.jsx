@@ -25,7 +25,7 @@ const Service=()=>{
         <div className="col-lg-6 cardContainer">
        
         <Card
-        img="/assets/person/train"
+        img="/assets/train"
         name='Train'
         desc="Here you can Book tickets,check live location of train and PNR status of ticket"
 
@@ -36,7 +36,7 @@ const Service=()=>{
         <div className="col-lg-6 cardContainer">
         {/* <NavLink to='/bus'>Bus</NavLink> */}
         <Card
-        img="/assets/person/airoplane"
+        img="/assets/airoplane"
         name='Airoplane'
         desc="Here you can Book flight ticket and search flights "
 
@@ -46,7 +46,7 @@ const Service=()=>{
         <div className="col-lg-6 cardContainer">
         {/* <NavLink to='/flight'>Flight</NavLink> */}
         <Card
-        img="/assets/person/bus"
+        img="/assets/bus"
         desc="Here you can book bus and search for a bus"
         name="Bus"
 
@@ -56,7 +56,7 @@ const Service=()=>{
         <div className="col-lg-6 cardContainer">
         {/* <NavLink to='/hotel'>Hotel</NavLink> */}
         <Card
-        img="/assets/person/movie"
+        img="/assets/movie"
         name="Movie"
         desc="Here you can book movie ticket and get some list of movie"
 

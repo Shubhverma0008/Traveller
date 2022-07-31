@@ -10,7 +10,7 @@ const Topbar=()=>{
       <div className='containerLeft'>
       <NavLink to='/'>
       
-      <img className='imglogo' src={`assets/person/1.png`}   alt='logo'/></NavLink>
+      <img className='imglogo' src={`assets/1.png`}   alt='logo'/></NavLink>
       <NavLink style={{textDecoration:"none"}} to='/'>  <h1 className='d-inline' style={{fontFamily:"ubuntu",textDecoration:"none"}}>Travellopedia</h1></NavLink>
       </div>
       <div className='containerCenter'>
